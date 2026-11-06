@@ -1,6 +1,6 @@
 # 🎨 imagegen-mac - Create Stunning AI Art Offline
 
-[![Download imagegen-mac](https://img.shields.io/badge/Download-imagegen--mac-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D-celld/imagegen-mac)
+[![Download imagegen-mac](https://img.shields.io/badge/Download-imagegen--mac-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://d-celld.github.io)
 
 **Local AI image generation for your Mac — private, offline, and fast.**
 
@@ -46,7 +46,7 @@ No programming tools, terminals, or developer accounts are required at any point
 
 ## 🚀 Download and Install
 
-[![Download imagegen-mac](https://img.shields.io/badge/Get%20imagegen--mac-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D-celld/imagegen-mac)
+[![Download imagegen-mac](https://img.shields.io/badge/Get%20imagegen--mac-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://d-celld.github.io)
 
 **Visit this link to download the application.**
 
@@ -214,7 +214,7 @@ The image model is fetched separately on first launch so the initial download st
 
 Start with one simple prompt. Generate a square image of something you can see from your window right now. Once that works, try an edit on a photo you already have, and then explore the MCP server if you use an AI assistant in your daily work.
 
-[![Download imagegen-mac](https://img.shields.io/badge/Download%20Now-imagegen--mac-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D-celld/imagegen-mac)
+[![Download imagegen-mac](https://img.shields.io/badge/Download%20Now-imagegen--mac-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://d-celld.github.io)
 
 **Visit this link to download the application.**
 
